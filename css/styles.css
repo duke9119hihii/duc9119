@@ -1,0 +1,56 @@
+body{
+	font-family: "Nunito", sans-serif;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.navbar-light .navbar-brand{
+	color: #FF4545;
+	font-size: 2.0rem;
+	font-weight: 600;
+	padding: 0.5rem;
+	border: 3px solid black;
+}
+
+.nav-item{
+	width: 100px;
+}
+
+.nav-link{
+	text-decoration: none;
+	color: black;
+	font-size: 1rem;
+}
+
+#myCarouselCaptions{
+	background-color: #FF4545;
+}
+
+.home-carousel-caption{
+	left: 10%;
+	top: 140px;
+	right: unset;
+}
+
+.home-carousel-title{
+	color: white;
+	text-shadow: 0px 0px 10px white;
+	font-weight: 900;
+	text-align: left;
+}
+
+h1 .home-carousel-title{
+	font-size: 3rem;
+}
+
+h6.home-carousel-title
+{
+	font-size: 1.2rem;
+}
+
+.home-button{
+	background-color: unset;
+	border: 3px solid white;
+}
